@@ -6,4 +6,4 @@ eureka:
       default-zone: http://localhost:8761/eureka/
 
 wechat:
-  test: 123456789
+  test: 123456789啦啦啦啦啦啦啦
